@@ -1,7 +1,10 @@
 # QRCodeUtil
 基于Google的二维码生成工具
 
+
+
 可使用maven的方式引入一下jar包：
+
 		<!-- google生成二维码的依赖包 -->
 		<!-- https://mvnrepository.com/artifact/com.google.zxing/core -->
 		<dependency>
